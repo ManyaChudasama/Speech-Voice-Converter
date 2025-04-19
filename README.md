@@ -11,3 +11,10 @@ Speech Voice Converter - Using Python and GUI Interface (tkinter library), this 
 8) Project part 4 – For converting pdf file to speech
 9) Creative background for both login and main page using Tkinter and CustomTkinter to give modern GUI appearance
 10) Error Handling for incorrect username/password and password hidden via asterisk(*) symbol
+# Working of the project
+1) The Project.zip file needs to be downloaded and the whole folder needs to opened in Visual Studio Code for the best functioning of all the parts of the project.
+2) To login as a user, run the above “LOGIN.py” file after opening whole folder and enter the details mentioned for the user (Username – User and Password – PASS).
+3) A dialogue box will open as shown below click on OK to access the main page. Here, gui.py file will run in background to open the below GUI window.
+4) Click on the specific features that you want to use out of the four features. Click on close if it is required to close GUI interface. 
+5) To login as admin, enter the admin credentials on the same login page as shown below. Username for admin is “Admin” and password is “main”. After login as admin a dialogue box will appear as shown in below. Click on OK to continue.
+6) A window will open to track the details of count and timings of login.
